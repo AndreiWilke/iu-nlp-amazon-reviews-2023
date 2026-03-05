@@ -1,0 +1,29 @@
+{
+  "results": [
+    {
+      "model": "logreg_normal",
+      "val_accuracy": 0.763,
+      "val_macro_f1": 0.5047458954340588,
+      "path": "models/logreg_normal.joblib"
+    },
+    {
+      "model": "logreg_balanced",
+      "val_accuracy": 0.7353333333333333,
+      "val_macro_f1": 0.51982183211825,
+      "path": "models/logreg_balanced.joblib"
+    },
+    {
+      "model": "linearsvm_normal",
+      "val_accuracy": 0.756,
+      "val_macro_f1": 0.5002457561023255,
+      "path": "models/linearsvm_normal.joblib"
+    },
+    {
+      "model": "linearsvm_balanced",
+      "val_accuracy": 0.7536666666666667,
+      "val_macro_f1": 0.5159885427120556,
+      "path": "models/linearsvm_balanced.joblib"
+    }
+  ],
+  "best_model": "logreg_balanced"
+}

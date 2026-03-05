@@ -1,0 +1,5 @@
+model,val_accuracy,val_macro_f1,path
+logreg_balanced,0.7353333333333333,0.51982183211825,models/logreg_balanced.joblib
+linearsvm_balanced,0.7536666666666667,0.5159885427120556,models/linearsvm_balanced.joblib
+logreg_normal,0.763,0.5047458954340588,models/logreg_normal.joblib
+linearsvm_normal,0.756,0.5002457561023255,models/linearsvm_normal.joblib

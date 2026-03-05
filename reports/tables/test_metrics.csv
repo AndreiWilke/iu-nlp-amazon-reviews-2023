@@ -1,0 +1,2 @@
+model,model_path,test_accuracy,test_macro_f1
+best_model,models/best_model.joblib,0.7443333333333333,0.5346202507671947

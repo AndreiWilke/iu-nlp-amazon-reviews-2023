@@ -1,0 +1,10 @@
+split,category,n
+test,Clothing_Shoes_and_Jewelry,2018
+test,Electronics,1998
+test,Home_and_Kitchen,1984
+train,Clothing_Shoes_and_Jewelry,6999
+train,Electronics,6982
+train,Home_and_Kitchen,7019
+val,Clothing_Shoes_and_Jewelry,983
+val,Electronics,1020
+val,Home_and_Kitchen,997
